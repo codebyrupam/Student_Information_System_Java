@@ -12,6 +12,6 @@ Ordered record maintenance with Linked List
 
 Clean, modular OOP design
 
-🔗 GitHub: [Your GitHub URL]
+🔗 GitHub: [https://github.com/codebyrupam/Student_Information_System_Java/blob/main/README.md]
 
 #Java #OOP #DataStructures #BST #LinkedList #SoftwareDevelopment #GitHubProjects

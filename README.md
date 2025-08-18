@@ -85,6 +85,11 @@ Enter Student ID to search (BST): 101
 
 ID: 101, Name: Alice, Department: CSE, Grade: 8.5
 
+
+
+<img width="456" height="460" alt="image" src="https://github.com/user-attachments/assets/5bb9b4e0-dfba-456c-be09-01e3ce5ddb4f" />
+
+
 ---
 
 ## 📌 Future Improvements

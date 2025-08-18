@@ -7,7 +7,7 @@ A Student Information System built in Java using Object-Oriented Programming (OO
 
 This project demonstrates clean OOP design, encapsulation, and menu-driven console interaction for practical learning.
 
----
+
 
 ## 🚀 Features
 
@@ -21,7 +21,6 @@ This project demonstrates clean OOP design, encapsulation, and menu-driven conso
 
 🖥️ Interactive console menu system
 
----
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +32,7 @@ Object-Oriented Programming (Encapsulation, Classes, Objects)
 
 Data Structures: Linked List, Binary Search Tree
 
----
+
 
 ## 📊 Example Input / Output
 
@@ -98,11 +97,11 @@ ID: 101, Name: Alice, Department: CSE, Grade: 8.5
 
 🟢 Build a GUI version using JavaFX or Swing
 
----
 
-**👤 Author**
 
-Rupam Ghosh
+##👤 Author
+
+**Rupam Ghosh**
 
 🔗 GitHub https://github.com/codebyrupam
 

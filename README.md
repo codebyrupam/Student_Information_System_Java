@@ -97,13 +97,45 @@ ID: 101, Name: Alice, Department: CSE, Grade: 8.5
 
 🟢 Build a GUI version using JavaFX or Swing
 
-
-
 ## 👤 Author
 
 **Rupam Ghosh**
 
 🔗 GitHub https://github.com/codebyrupam
+
+---
+
+## 📊 UML Class Diagram
+
+```mermaid
+classDiagram
+    class Student {
+        - int id
+        - String name
+        - String department
+        - double grade
+        + getId()
+        + getName()
+        + getDepartment()
+        + getGrade()
+        + displayStudentDetails()
+    }
+
+    class StudentLinkedList {
+        + addStudent(Student)
+        + viewAllStudents()
+        + searchStudentById(int)
+    }
+
+    class StudentBST {
+        + insert(Student)
+        + search(int)
+    }
+
+    StudentLinkedList --> Student
+    StudentBST --> Student
+
+
 
 
 
